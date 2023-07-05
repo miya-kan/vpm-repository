@@ -12,6 +12,8 @@
     "text": "View on GitHub"
   },
   "bannerUrl": "banner.png",
-  "githubRepos": [],
+  "githubRepos": [
+    "miya-kan/PickupScaleController"
+  ],
   "packages": []
 }
